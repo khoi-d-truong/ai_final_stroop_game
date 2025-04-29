@@ -1,0 +1,99 @@
+aliceblue,pink,pink,Tahoma,0
+azure,blue,pink,Verdana,0
+floralwhite,red,red,Verdana,0
+moccasin,brown,green,Impact,0
+azure,orange,orange,Comic Sans,1
+ivory,brown,brown,Courier New,1
+beige,yellow,yellow,Courier New,1
+ivory,blue,blue,Comic Sans,1
+lavender,black,black,Courier New,0
+aliceblue,pink,pink,Comic Sans,1
+ivory,red,red,Courier New,1
+moccasin,red,red,Helvetica,1
+azure,orange,orange,Arial,1
+lavender,gray,gray,Georgia,1
+moccasin,blue,blue,Courier New,1
+floralwhite,blue,blue,Verdana,1
+floralwhite,orange,red,Courier New,0
+moccasin,black,black,Courier New,1
+moccasin,orange,red,Impact,0
+lemonchiffon,yellow,orange,Courier New,0
+azure,blue,blue,Tahoma,1
+floralwhite,blue,red,Comic Sans,0
+ivory,yellow,gray,Verdana,0
+floralwhite,brown,red,Courier,0
+moccasin,green,green,Courier New,1
+aliceblue,gray,purple,Courier,0
+beige,gray,gray,Times New Roman,0
+ivory,red,orange,Courier New,0
+floralwhite,pink,pink,Arial,1
+floralwhite,brown,brown,Impact,1
+aliceblue,green,green,Comic Sans,1
+aliceblue,pink,pink,Verdana,0
+ivory,brown,orange,Arial,0
+ivory,blue,blue,Tahoma,1
+ivory,pink,pink,Courier New,1
+moccasin,orange,orange,Impact,1
+ivory,black,black,Sans-Serif,1
+azure,blue,blue,Helvetica,1
+lavender,blue,blue,Courier New,1
+moccasin,blue,blue,Courier New,1
+moccasin,orange,orange,Times New Roman,1
+lemonchiffon,red,red,Times New Roman,0
+lavender,black,black,Verdana,1
+lemonchiffon,orange,orange,Courier New,1
+beige,purple,purple,Courier New,1
+moccasin,pink,pink,Courier New,1
+floralwhite,orange,orange,Impact,1
+floralwhite,purple,yellow,Impact,0
+azure,black,black,Courier New,1
+beige,green,green,Arial,1
+floralwhite,yellow,yellow,Sans-Serif,1
+floralwhite,gray,gray,Comic Sans,1
+moccasin,red,red,Sans-Serif,1
+lemonchiffon,red,red,Verdana,1
+lavender,brown,brown,Courier New,1
+azure,blue,blue,Helvetica,1
+moccasin,green,green,Arial,0
+lemonchiffon,pink,pink,Helvetica,0
+beige,purple,purple,Georgia,0
+moccasin,green,green,Sans-Serif,0
+azure,orange,orange,Sans-Serif,1
+moccasin,yellow,yellow,Impact,1
+moccasin,blue,blue,Sans-Serif,0
+aliceblue,pink,pink,Courier,1
+floralwhite,blue,blue,Tahoma,1
+lavender,black,black,Impact,0
+aliceblue,gray,gray,Georgia,0
+lemonchiffon,brown,brown,Arial,1
+lemonchiffon,pink,pink,Courier New,1
+lemonchiffon,blue,blue,Arial,1
+aliceblue,green,green,Comic Sans,0
+floralwhite,red,red,Arial,1
+lemonchiffon,gray,gray,Arial,1
+beige,blue,blue,Courier,1
+azure,yellow,yellow,Sans-Serif,1
+moccasin,yellow,yellow,Comic Sans,1
+ivory,green,green,Courier New,1
+moccasin,brown,brown,Sans-Serif,1
+ivory,brown,brown,Courier New,1
+lemonchiffon,blue,blue,Times New Roman,1
+lemonchiffon,green,green,Times New Roman,1
+beige,purple,purple,Courier New,0
+lemonchiffon,red,gray,Courier New,0
+beige,orange,orange,Times New Roman,0
+moccasin,purple,purple,Georgia,0
+aliceblue,pink,pink,Courier New,0
+beige,blue,blue,Verdana,1
+azure,orange,orange,Courier New,0
+azure,black,black,Tahoma,0
+lemonchiffon,green,black,Arial,0
+azure,red,red,Times New Roman,1
+aliceblue,green,green,Georgia,0
+lemonchiffon,black,blue,Impact,0
+ivory,orange,orange,Courier New,0
+aliceblue,green,green,Courier New,0
+moccasin,red,red,Arial,1
+lemonchiffon,gray,gray,Helvetica,0
+ivory,yellow,yellow,Courier New,1
+lavender,green,green,Times New Roman,0
