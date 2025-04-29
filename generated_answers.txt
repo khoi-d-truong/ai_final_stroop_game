@@ -1,0 +1,501 @@
+Background_Color	Foreground_Color	Font_Color	Font	Target
+moccasin	brown	green	Courier New	0
+beige	brown	brown	Arial	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	black	blue	Arial	0
+aliceblue	brown	pink	Verdana	0
+azure	blue	blue	Georgia	0
+moccasin	brown	blue	Arial	0
+ivory	brown	black	Verdana	0
+floralwhite	black	black	Arial	0
+aliceblue	brown	pink	Verdana	0
+azure	brown	brown	Courier New	0
+ivory	brown	black	Verdana	0
+lavender	black	blue	Arial	0
+aliceblue	blue	blue	Georgia	0
+aliceblue	brown	red	Verdana	0
+beige	blue	blue	Courier New	0
+aliceblue	brown	gray	Verdana	0
+ivory	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+moccasin	brown	green	Helvetica	0
+moccasin	brown	purple	Georgia	0
+lavender	brown	black	Verdana	0
+aliceblue	blue	blue	Georgia	0
+aliceblue	brown	gray	Verdana	0
+beige	brown	brown	Arial	0
+lemonchiffon	blue	blue	Courier New	0
+lavender	black	black	Arial	0
+ivory	brown	red	Verdana	0
+ivory	brown	gray	Verdana	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	blue	gray	Verdana	0
+lavender	blue	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+floralwhite	brown	blue	Arial	0
+lavender	brown	blue	Verdana	0
+aliceblue	blue	blue	Courier New	0
+ivory	brown	black	Arial	0
+moccasin	brown	red	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Georgia	0
+azure	brown	gray	Courier New	0
+ivory	brown	black	Verdana	0
+lemonchiffon	blue	blue	Courier New	0
+aliceblue	brown	pink	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+beige	brown	brown	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+beige	brown	brown	Courier New	0
+ivory	brown	black	Verdana	0
+azure	brown	brown	Georgia	0
+aliceblue	brown	brown	Arial	0
+aliceblue	brown	pink	Verdana	0
+lavender	brown	gray	Verdana	0
+aliceblue	blue	blue	Verdana	0
+floralwhite	blue	blue	Arial	0
+aliceblue	brown	blue	Georgia	0
+lemonchiffon	blue	blue	Courier New	0
+aliceblue	brown	purple	Verdana	0
+moccasin	brown	brown	Georgia	0
+aliceblue	brown	gray	Verdana	0
+azure	brown	brown	Courier New	0
+ivory	brown	green	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+azure	brown	pink	Verdana	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	brown	blue	Arial	0
+azure	brown	pink	Verdana	0
+aliceblue	brown	pink	Verdana	0
+lavender	brown	blue	Verdana	0
+ivory	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Georgia	0
+azure	brown	brown	Georgia	0
+lavender	brown	green	Arial	0
+aliceblue	brown	gray	Verdana	0
+aliceblue	brown	blue	Verdana	0
+ivory	brown	gray	Verdana	0
+floralwhite	black	black	Arial	0
+ivory	brown	gray	Verdana	0
+aliceblue	brown	yellow	Verdana	0
+ivory	brown	pink	Verdana	0
+azure	blue	blue	Courier New	0
+aliceblue	brown	blue	Arial	0
+ivory	brown	brown	Verdana	0
+azure	brown	pink	Verdana	0
+lavender	brown	gray	Verdana	0
+aliceblue	blue	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+ivory	brown	brown	Verdana	0
+floralwhite	brown	black	Arial	0
+lavender	blue	blue	Arial	0
+azure	brown	brown	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	gray	Verdana	0
+aliceblue	blue	blue	Courier New	0
+moccasin	black	black	Arial	0
+azure	brown	gray	Helvetica	0
+moccasin	black	black	Arial	0
+azure	blue	green	Verdana	0
+aliceblue	brown	blue	Verdana	0
+azure	brown	brown	Georgia	0
+azure	blue	green	Courier New	0
+ivory	brown	black	Verdana	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	blue	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+moccasin	brown	brown	Courier New	0
+azure	yellow	brown	Courier New	0
+aliceblue	brown	blue	Verdana	0
+lavender	blue	blue	Verdana	0
+moccasin	brown	red	Verdana	0
+ivory	brown	black	Verdana	0
+floralwhite	brown	purple	Verdana	0
+lavender	brown	black	Arial	0
+ivory	brown	green	Verdana	0
+ivory	brown	red	Arial	0
+azure	brown	pink	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+azure	brown	brown	Georgia	0
+aliceblue	brown	gray	Verdana	0
+azure	brown	red	Courier New	0
+aliceblue	brown	blue	Georgia	0
+aliceblue	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+azure	brown	brown	Courier New	0
+azure	brown	brown	Courier New	0
+moccasin	blue	blue	Georgia	0
+ivory	brown	red	Verdana	0
+moccasin	black	blue	Arial	0
+beige	blue	blue	Courier New	0
+aliceblue	brown	gray	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Georgia	0
+lavender	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+floralwhite	black	brown	Arial	0
+lavender	brown	gray	Verdana	0
+aliceblue	brown	brown	Georgia	0
+azure	brown	gray	Helvetica	0
+aliceblue	brown	pink	Verdana	0
+floralwhite	black	blue	Arial	0
+aliceblue	brown	pink	Courier New	0
+ivory	brown	red	Verdana	0
+aliceblue	blue	blue	Courier New	0
+floralwhite	brown	black	Arial	0
+moccasin	brown	black	Verdana	0
+aliceblue	blue	blue	Georgia	0
+lavender	brown	gray	Helvetica	0
+azure	brown	brown	Courier New	0
+lavender	brown	red	Verdana	0
+azure	brown	brown	Georgia	0
+lemonchiffon	blue	blue	Georgia	0
+floralwhite	black	blue	Arial	0
+lavender	blue	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+beige	brown	purple	Helvetica	0
+aliceblue	blue	blue	Arial	0
+moccasin	black	black	Arial	0
+lavender	brown	black	Verdana	0
+azure	brown	brown	Georgia	0
+moccasin	black	blue	Arial	0
+ivory	brown	gray	Helvetica	0
+lemonchiffon	blue	blue	Georgia	0
+azure	brown	brown	Georgia	0
+azure	brown	blue	Courier New	0
+ivory	brown	gray	Verdana	0
+lavender	brown	blue	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+floralwhite	brown	black	Arial	0
+moccasin	brown	black	Verdana	0
+azure	brown	brown	Courier New	0
+aliceblue	brown	black	Verdana	0
+moccasin	brown	blue	Verdana	0
+lavender	brown	purple	Verdana	0
+moccasin	black	blue	Arial	0
+ivory	brown	gray	Helvetica	0
+floralwhite	black	black	Arial	0
+lemonchiffon	blue	blue	Courier New	0
+lavender	brown	gray	Verdana	0
+floralwhite	brown	brown	Arial	0
+azure	blue	blue	Georgia	0
+ivory	brown	black	Arial	0
+aliceblue	blue	blue	Courier New	0
+azure	blue	blue	Courier New	0
+lavender	blue	blue	Verdana	0
+lavender	brown	red	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+moccasin	brown	brown	Arial	0
+lemonchiffon	black	blue	Arial	0
+lavender	brown	pink	Verdana	0
+aliceblue	brown	pink	Verdana	0
+lavender	blue	blue	Arial	0
+azure	blue	blue	Courier New	0
+ivory	brown	gray	Verdana	0
+aliceblue	brown	pink	Verdana	0
+ivory	brown	pink	Verdana	0
+lavender	brown	gray	Verdana	0
+lavender	brown	gray	Helvetica	0
+lemonchiffon	blue	blue	Arial	0
+ivory	brown	gray	Verdana	0
+azure	brown	brown	Courier New	0
+ivory	brown	red	Verdana	0
+ivory	brown	black	Verdana	0
+ivory	brown	brown	Verdana	0
+lavender	brown	black	Arial	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Georgia	0
+ivory	brown	black	Verdana	0
+azure	blue	blue	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	gray	Verdana	0
+moccasin	brown	brown	Arial	0
+moccasin	brown	gray	Helvetica	0
+moccasin	black	blue	Arial	0
+beige	blue	blue	Arial	0
+aliceblue	blue	blue	Arial	0
+aliceblue	brown	pink	Verdana	0
+lemonchiffon	black	blue	Arial	0
+aliceblue	brown	brown	Arial	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	pink	Verdana	0
+lavender	brown	black	Arial	0
+floralwhite	blue	blue	Arial	0
+azure	brown	pink	Helvetica	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	brown	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+moccasin	brown	brown	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	pink	Verdana	0
+azure	blue	blue	Georgia	0
+moccasin	blue	blue	Arial	0
+ivory	brown	red	Verdana	0
+lavender	brown	orange	Arial	0
+aliceblue	brown	pink	Verdana	0
+azure	blue	blue	Courier New	0
+aliceblue	brown	pink	Verdana	0
+lavender	blue	blue	Arial	0
+floralwhite	brown	brown	Arial	0
+moccasin	brown	brown	Arial	0
+lemonchiffon	blue	blue	Georgia	0
+lavender	brown	blue	Verdana	0
+aliceblue	blue	gray	Verdana	0
+azure	blue	blue	Courier New	0
+ivory	brown	black	Verdana	0
+lavender	brown	purple	Verdana	0
+lavender	blue	blue	Arial	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	blue	blue	Arial	0
+ivory	brown	red	Verdana	0
+beige	blue	blue	Arial	0
+azure	brown	brown	Courier New	0
+lavender	brown	gray	Verdana	0
+moccasin	blue	blue	Arial	0
+aliceblue	brown	brown	Verdana	0
+lavender	brown	black	Arial	0
+beige	brown	brown	Arial	0
+moccasin	black	brown	Arial	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	brown	blue	Arial	0
+azure	brown	gray	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+beige	brown	brown	Courier New	0
+aliceblue	brown	pink	Verdana	0
+lavender	brown	blue	Verdana	0
+moccasin	brown	black	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+moccasin	blue	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+ivory	brown	brown	Courier New	0
+aliceblue	blue	blue	Arial	0
+ivory	brown	orange	Verdana	0
+lavender	brown	blue	Arial	0
+aliceblue	blue	blue	Courier New	0
+lavender	brown	blue	Verdana	0
+azure	brown	gray	Helvetica	0
+ivory	brown	gray	Helvetica	0
+ivory	brown	gray	Verdana	0
+floralwhite	brown	brown	Courier New	0
+aliceblue	brown	brown	Courier New	0
+ivory	brown	red	Verdana	0
+ivory	brown	brown	Courier New	0
+azure	brown	gray	Verdana	0
+lemonchiffon	black	blue	Arial	0
+moccasin	brown	black	Arial	0
+lavender	brown	red	Verdana	0
+moccasin	black	black	Arial	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	brown	gray	Verdana	0
+aliceblue	brown	pink	Verdana	0
+azure	blue	blue	Courier New	0
+ivory	brown	pink	Verdana	0
+moccasin	black	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+azure	brown	green	Verdana	0
+aliceblue	blue	blue	Verdana	0
+beige	blue	blue	Arial	0
+moccasin	black	brown	Arial	0
+aliceblue	blue	blue	Georgia	0
+aliceblue	blue	blue	Verdana	0
+lavender	blue	blue	Verdana	0
+beige	blue	blue	Arial	0
+moccasin	brown	brown	Verdana	0
+aliceblue	brown	pink	Verdana	0
+beige	brown	brown	Courier New	0
+moccasin	blue	blue	Arial	0
+lavender	brown	blue	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	gray	Verdana	0
+azure	brown	brown	Courier New	0
+moccasin	black	blue	Arial	0
+aliceblue	brown	gray	Verdana	0
+ivory	brown	brown	Comic Sans	0
+azure	brown	pink	Verdana	0
+azure	blue	blue	Georgia	0
+lavender	brown	red	Verdana	0
+aliceblue	blue	blue	Courier New	0
+ivory	brown	gray	Verdana	0
+aliceblue	brown	gray	Verdana	0
+azure	brown	brown	Georgia	0
+azure	brown	gray	Verdana	0
+aliceblue	blue	blue	Verdana	0
+lavender	black	black	Verdana	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	blue	blue	Courier New	0
+moccasin	brown	black	Arial	0
+aliceblue	blue	blue	Arial	0
+ivory	brown	gray	Verdana	0
+aliceblue	brown	blue	Verdana	0
+moccasin	black	blue	Arial	0
+moccasin	brown	brown	Georgia	0
+aliceblue	brown	pink	Verdana	0
+ivory	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+lavender	brown	purple	Verdana	0
+lemonchiffon	brown	blue	Arial	0
+floralwhite	brown	brown	Courier New	0
+azure	brown	brown	Georgia	0
+lavender	brown	blue	Verdana	0
+ivory	brown	black	Arial	0
+lavender	brown	blue	Verdana	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	brown	brown	Verdana	0
+aliceblue	brown	brown	Verdana	0
+floralwhite	brown	brown	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+lavender	brown	black	Verdana	0
+aliceblue	blue	blue	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Georgia	0
+azure	blue	blue	Georgia	0
+aliceblue	blue	blue	Courier New	0
+lavender	brown	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+ivory	brown	brown	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Courier New	0
+lavender	brown	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	brown	gray	Verdana	0
+aliceblue	blue	blue	Courier New	0
+aliceblue	brown	pink	Verdana	0
+beige	brown	brown	Courier New	0
+aliceblue	blue	blue	Courier New	0
+lavender	blue	blue	Arial	0
+ivory	brown	gray	Verdana	0
+aliceblue	blue	blue	Courier New	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	blue	blue	Courier New	0
+moccasin	blue	blue	Arial	0
+azure	brown	blue	Courier New	0
+lemonchiffon	blue	blue	Arial	0
+moccasin	brown	brown	Arial	0
+aliceblue	brown	blue	Arial	0
+ivory	brown	green	Verdana	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	brown	pink	Verdana	0
+azure	brown	blue	Helvetica	0
+aliceblue	blue	blue	Verdana	0
+lavender	brown	red	Verdana	0
+aliceblue	brown	brown	Times New Roman	0
+moccasin	black	black	Arial	0
+ivory	brown	red	Verdana	0
+aliceblue	brown	gray	Verdana	0
+aliceblue	brown	gray	Verdana	0
+lavender	brown	gray	Verdana	0
+azure	brown	red	Arial	0
+azure	brown	yellow	Verdana	0
+aliceblue	brown	gray	Verdana	0
+aliceblue	brown	green	Verdana	0
+ivory	brown	red	Verdana	0
+aliceblue	brown	pink	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+lemonchiffon	blue	blue	Georgia	0
+floralwhite	blue	blue	Arial	0
+lemonchiffon	blue	blue	Courier New	0
+aliceblue	brown	brown	Verdana	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	brown	brown	Sans-Serif	0
+aliceblue	brown	pink	Verdana	0
+ivory	brown	brown	Courier New	0
+lemonchiffon	blue	blue	Georgia	0
+ivory	brown	red	Verdana	0
+ivory	brown	brown	Comic Sans	0
+moccasin	blue	blue	Georgia	0
+aliceblue	brown	gray	Verdana	0
+ivory	brown	red	Verdana	0
+lavender	brown	gray	Verdana	0
+ivory	brown	black	Arial	0
+moccasin	blue	blue	Arial	0
+aliceblue	brown	pink	Impact	0
+lavender	brown	green	Verdana	0
+moccasin	brown	black	Verdana	0
+lavender	brown	gray	Verdana	0
+beige	brown	brown	Courier New	0
+ivory	brown	black	Arial	0
+azure	blue	gray	Helvetica	0
+moccasin	blue	blue	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	brown	gray	Verdana	0
+moccasin	blue	blue	Courier New	0
+aliceblue	brown	pink	Verdana	0
+ivory	brown	pink	Verdana	0
+beige	brown	brown	Arial	0
+aliceblue	blue	blue	Georgia	0
+aliceblue	blue	blue	Arial	0
+aliceblue	brown	pink	Verdana	0
+aliceblue	brown	blue	Verdana	0
+aliceblue	brown	brown	Courier New	0
+aliceblue	blue	blue	Verdana	0
+azure	blue	blue	Courier New	0
+aliceblue	blue	blue	Verdana	0
+moccasin	brown	black	Arial	0
+ivory	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Arial	0
+lavender	brown	purple	Verdana	0
+lavender	brown	red	Verdana	0
+lavender	brown	gray	Verdana	0
+aliceblue	brown	gray	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+ivory	brown	red	Verdana	0
+aliceblue	blue	blue	Arial	0
+lavender	brown	black	Verdana	0
+azure	brown	brown	Courier New	0
+lavender	black	blue	Arial	0
+azure	brown	red	Verdana	0
+aliceblue	blue	blue	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+ivory	brown	black	Arial	0
+ivory	brown	green	Helvetica	0
+ivory	brown	black	Verdana	0
+ivory	brown	black	Verdana	0
+lemonchiffon	blue	blue	Georgia	0
+azure	blue	blue	Georgia	0
+aliceblue	brown	blue	Verdana	0
+lavender	brown	blue	Verdana	0
+moccasin	brown	green	Verdana	0
+aliceblue	brown	pink	Verdana	0
+beige	brown	brown	Georgia	0
+ivory	brown	green	Verdana	0
+beige	brown	brown	Arial	0
+lavender	brown	gray	Verdana	0
+lavender	black	black	Verdana	0
+azure	brown	red	Georgia	0
+lemonchiffon	blue	blue	Arial	0
+aliceblue	blue	blue	Georgia	0
+moccasin	brown	blue	Arial	0
+aliceblue	blue	blue	Verdana	0
+aliceblue	blue	blue	Courier New	0
+lemonchiffon	blue	blue	Georgia	0
+aliceblue	brown	brown	Courier New	0
+floralwhite	black	blue	Arial	0
+lavender	blue	blue	Verdana	0
+lavender	brown	gray	Verdana	0
+azure	blue	blue	Courier New	0
+ivory	brown	brown	Verdana	0
+moccasin	brown	black	Courier New	0
+moccasin	brown	black	Arial	0
+lavender	brown	blue	Verdana	0
+aliceblue	brown	pink	Impact	0
+lavender	brown	gray	Verdana	0
+aliceblue	blue	blue	Georgia	0
+aliceblue	blue	blue	Arial	0
