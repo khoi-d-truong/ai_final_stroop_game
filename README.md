@@ -12,3 +12,5 @@ The rules are simple:
 - SPECIAL NOTE: if the numpad is unresponsive, try checking the numlock
 - upon reaching 100 turns, the game WILL download your game data
 - The game comes with a text file created by Stroop gan py which features a GAN trained on the test data also included in the repo
+- In order to run the python notebook, you may need to add the data from the game data folder
+- Running the notebook will create a new textfile, you may need to alter the names of the new file and the existing file if you want to check a new set of ai generated answers
